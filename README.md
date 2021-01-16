@@ -1,6 +1,6 @@
 # Reflections and Notes on the Corpus Linguistics Working Group (Wi2021)
 
-A reminder of all the cool things I learned from Dr. Kristopher Kyle and the graduate students who are participating in his working group
+A reminder of all the cool things I have learned from Dr. Kristopher Kyle and the Linguistics graduate students at the University of Oregon who are participating in his working group
 
 ## Week 1: Create a GitHub account
 ### Instructions from Kris
@@ -28,7 +28,8 @@ Theme Chooser > Click on "Choose a theme" > Choose a Jekyll theme you want to cr
 For more information on how to choose a Jekyll theme, go to this [website](https://docs.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-with-the-theme-chooser)
 #### Adding content to the Readme file
 Go into the readme file where it says, "<> Edit file" and add the text for weeks 1 and 2. 
-I noticed at the bottom of this page, there is a button that says "Commit Changes." My guess is this saves the file and also keeps track of changes made over time. Awesome!
+I noticed at the bottom of this page, there is a button that says "Commit Changes." My guess is this saves the file and also keeps track of changes made over time. Awesome! 
+
 
 
 
