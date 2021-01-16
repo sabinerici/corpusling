@@ -1,4 +1,43 @@
-## Welcome to GitHub Pages
+# Reflections and Notes on the Corpus Linguistics Working Group (Wi2021)
+
+A reminder of all the cool things I learned from Dr. Kristopher Kyle and the graduate students who are participating in his working group
+
+## Week 1: Create a GitHub account
+### Instructions from Kris
+1. Sign up for a GitHub account
+2. Create a sample repository
+3. Take a look at the [markdown guidelines](https://www.markdownguide.org/getting-started/) and [cheatsheet](https://www.markdownguide.org/cheat-sheet/) 
+
+### GitHub Account Creation 
+- Go to [GitHub.com](github.com) and create an account. It will ask you for a username, email address and password. You'll be prompted to verify your account. Set your permissions to public.
+### Sample Repository Creation
+- I called mine corpusling. GitHub automatically created a readme.md file
+
+## Week 2: Add content to the Readme file on your GitHub repository
+### Instructions from Kris: 
+- This should minimally include two header levels, some basic text, and at least one link. 
+1. Go to settings > GitHub Pages > Choose a Jekyll theme to create the webpage. 
+2. Make sure the branch is main, then your read me will be your homepage and it will create a url for you.
+
+Besides following the instructions above, here are some more detailed instructions on how I completed the tasks:
+Go to settings > GitHub Pages > Source > Select Branch: main > folder /root >Save 
+
+#### Choosing a Jekyll Theme
+Theme Chooser > Click on "Choose a theme" > Choose a Jekyll theme you want to create the webpage, then click "Select theme"
+
+For more information on how to choose a Jekyll theme, go to this [website](https://docs.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-with-the-theme-chooser)
+#### Adding content to the Readme file
+Go into the readme file where it says, "<> Edit file" and add the text for weeks 1 and 2. 
+I noticed at the bottom of this page, there is a button that says "Commit Changes." My guess is this saves the file and also keeps track of changes made over time. Awesome!
+
+
+
+
+
+
+# Below is the rest of the readme file that GitHub automatically provided. 
+Note to self: I am not sure how to use the "editor on GitHub" mentioned below.
+
 
 You can use the [editor on GitHub](https://github.com/sabinerici/corpusling/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
