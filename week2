@@ -1,0 +1,13 @@
+# Week 2 notes
+Wesley gave a presentation. I tried to find his github account, but I don't know what it is. I believe the package he is working on is called flexpi or piflex.
+
+Masaki: For similarity of sounds, could we apply vector semantics approach to texts segmented into phonemes?
+
+[Genism](https://radimrehurek.com/gensim/)
+- Using word2vec (with phonemes instead of words)
+
+word2vec
+The nurse administered the shot – if doctor and nurse occur in similar contexts, they are related because they occur in similar ..
+
+Masaki shared a chapter about [semantic vectors](https://web.stanford.edu/~jurafsky/slp3/6.pdf) 
+
