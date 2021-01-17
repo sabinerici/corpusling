@@ -1,4 +1,6 @@
 # Week 3 article
+## A note about GitHub: I have no idea why using asterisks doesn't italicize or bold the words here. What am I missing?
+
 Biber, D. (2009). A corpus-driven approach to formulaic language in English: Multi-word patterns in speech and writing. *International Journal of Corpus Linguistics, 14*(3), 275-311. doi: 10.1075/ijcl.14.3.98bib
 
 ## Findings
@@ -6,8 +8,30 @@ Modality matters: multi-word formulaic sequences used in spoken English differ f
 Conversation patterns: fixed sequences of function and content words
 Academic writing patterns: formulaic frames - function words are invariable, variable slot filled by content words intervenes
 
+**multi-word sequences**: three or more words
+
 Type of multi-word sequences:
 - idiomatic (e.g. from the article [p. 275], "in a nutshell")
 - non-idiomatic, perceptually salient (e.g. from the article [p. 276]: "you're never going to believe this")
 
-Difference between **corpus-based** and **corpus-driven** research
+**corpus-based** (i.e., influenced by theoretical assumptions) 
+
+**corpus-driven** research (bottom up emergence of linguistic features from the corpus; only assumption: words exist)
+- probabilistic statistics (e.g. Mutual Information Score)
+- simple frequency
+
+multi-word lexical collocations: multi-word technical terms -> sequence of lexical words
+multi-word formulaic sequences: high frequency sequences of function and content words
+
+Study: corpus-driven, incorporates a register perspective (and what Biber calls register, I would argue is a modality or mode - spoken vs. written language)
+1) most frequent set of multi-word sequences
+2) describe variable properties
+- is the slot in the sequenced fixed or variable?
+
+Article discussed strict corpus driven approach (p. 281)
+analyze
+- actual word forms only
+- not consider grammatical/syntactic status of these words
+- frequency of how these word forms combine
+
+
