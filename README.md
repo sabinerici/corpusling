@@ -30,6 +30,8 @@ For more information on how to choose a Jekyll theme, go to this [website](https
 Go into the readme file where it says, "<> Edit file" and add the text for weeks 1 and 2. 
 I noticed at the bottom of this page, there is a button that says "Commit Changes." My guess is this saves the file and also keeps track of changes made over time. Awesome! 
 
+## Week 3
+Kris went over how to publish the github code and render a website. I had already done this part, but didn't know that there was a note saying "Your site is published at https://sabinerici.github.io/corpusling/"
 
 
 
