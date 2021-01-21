@@ -34,4 +34,5 @@ analyze
 - not consider grammatical/syntactic status of these words
 - frequency of how these word forms combine
 
-
+## Problems with MI statistic
+- high frequency function words also have a high probability of co-occurring by chance if word order is disregarded => resulting in a low MI score
