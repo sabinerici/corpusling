@@ -33,8 +33,44 @@ I noticed at the bottom of this page, there is a button that says "Commit Change
 ## Week 3
 Kris went over how to publish the github code and render a website. I had already done this part, but didn't know that there was a note saying "Your site is published at https://sabinerici.github.io/corpusling/"
 
+Masaki Eguchi presented on identifying formulaic language in corpora
+### Collocation
+- meet expectation
+- take medicine
+### Idiom
+- kick the bucket
+### Sentence stems or sentence builders
+- What I wanted to say is
+- The thing is that you
+#### Some other constructions
+- The ___er, the __er
 
+## How to identify these through corpus analyses
+### N-grams or lexical bundles
+- Contiguous sequences of n-lengths
+-- lexically specific
+- it is necessary to and it is important to will be a different sequence
 
+### Phrase frame
+- sequences of lexical items with some empty slots
+- it is X to
+- May reveal some abstract construction schema (filler and slot type sequence)
+
+### Dependency collocations
+- pair(s) of words in a sentence with specifically defined grammatical relations
+- NSUBJ + VERB
+- VERB + Direct OBJ
+
+## Computational approach to identifying formulaic languages
+### Create a reference norm
+Corpus used: ... to match the register
+
+N-gram Extraction Pipeline
+- Sentence tokenize
+- Delete punctuation
+- etc.
+
+The remainder of my notes are saved on my computer to protect the work Masaki Eguchi is doing. : )
 
 
 
